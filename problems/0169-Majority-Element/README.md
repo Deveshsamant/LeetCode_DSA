@@ -2,7 +2,7 @@
 
 # 169. Majority Element
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/Language-Java-6c5ce7?style=for-the-badge&labelColor=1a1a2e&logo=code)  ![Solutions](https://img.shields.io/badge/Solutions-3-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/Date-2026-06-23-0984e3?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/Language-Java-6c5ce7?style=for-the-badge&labelColor=1a1a2e&logo=code)  ![Solutions](https://img.shields.io/badge/Solutions-4-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/Date-2026-06-23-0984e3?style=for-the-badge&labelColor=1a1a2e)
 
 [![LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/majority-element/)
 
@@ -19,17 +19,18 @@
 | Metric | This Attempt | All-time Best |
 |--------|:-----------:|:------------:|
 | ⚡ Runtime | 6 ms (Beats 49%) | **6 ms (Beats 49%)** 🆕 |
-| 💾 Memory  | 55.6 MB (Beats 46%) | **55.6 MB (Beats 46%)** |
+| 💾 Memory  | 55.5 MB (Beats 60%) | **55.5 MB (Beats 60%)** |
 
 > 🎉 **New personal best!** Runtime improved!
 
-## 💡 Solutions (3 total)
+## 💡 Solutions (4 total)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
 | 1 | [sol1.java](./sol1.java) | `Java` | 2026-06-23 |
 | 2 | [sol2.java](./sol2.java) | `Java` | 2026-06-23 |
-| 3 | [sol3.java](./sol3.java) | `Java` | 2026-06-23 ← **latest** |
+| 3 | [sol3.java](./sol3.java) | `Java` | 2026-06-23 |
+| 4 | [sol4.java](./sol4.java) | `Java` | 2026-06-23 ← **latest** |
 
 ---
 
