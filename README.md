@@ -46,7 +46,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|---------|:----------:|:--------:|:----:|
 | 1 | [Two Sum](problems/0001-Two-Sum) | 🟢 Easy | `Java` | 2026-06-23 |
-| undefined | [Majority Element](problems/0169-Majority-Element) | 🟢 Easy | `Java` | 2026-06-23 |
+| 169 | [Majority Element](problems/0169-Majority-Element) | 🟢 Easy | `Java` | 2026-06-23 |
 
 ---
 
