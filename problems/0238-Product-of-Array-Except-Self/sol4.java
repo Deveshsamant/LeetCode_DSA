@@ -4,7 +4,7 @@
 // Language   : Java
 // Solution   : #4
 // Runtime    : 2 ms (Beats 95%)
-// Memory     : 71.9 MB (Beats 58%)
+// Memory     : 72.1 MB (Beats 27%)
 // Link       : https://leetcode.com/problems/product-of-array-except-self/
 // ==========================================================
 
