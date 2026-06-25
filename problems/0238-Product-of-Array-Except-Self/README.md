@@ -19,7 +19,7 @@
 | Metric | This Attempt | All-time Best |
 |--------|:-----------:|:------------:|
 | ⚡ Runtime | 2 ms (Beats 95%) | **2 ms (Beats 95%)** |
-| 💾 Memory  | 71.9 MB (Beats 58%) | **71.9 MB (Beats 58%)** |
+| 💾 Memory  | 72.1 MB (Beats 27%) | **72.1 MB (Beats 27%)** |
 
 ## 💡 Solutions (4 total)
 
