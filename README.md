@@ -3,9 +3,9 @@
 <h1>⚡ LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Problems](https://img.shields.io/badge/Total%20Solved-7-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/Easy-3-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/Medium-4-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/Hard-0-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Problems](https://img.shields.io/badge/Total%20Solved-8-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/Medium-4-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/Hard-0-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
-![Updated](https://img.shields.io/badge/Last%20Updated-2026-06-28-0984e3?style=flat-square&labelColor=1a1a2e) ![Auto](https://img.shields.io/badge/Auto--Synced%20by-LeetSync-ffa116?style=flat-square&logo=google-chrome&logoColor=white)
+![Updated](https://img.shields.io/badge/Last%20Updated-2026-06-29-0984e3?style=flat-square&labelColor=1a1a2e) ![Auto](https://img.shields.io/badge/Auto--Synced%20by-LeetSync-ffa116?style=flat-square&logo=google-chrome&logoColor=white)
 
 </div>
 
@@ -14,30 +14,30 @@
 ## 📊 Progress Dashboard
 
 ```
-  Total Solved      7  ███████
+  Total Solved      8  ████████
 
-  🟢 Easy          3  ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░ 43%
-  🟡 Medium        4  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░ 57%
+  🟢 Easy          4  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░ 50%
+  🟡 Medium        4  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░ 50%
   🔴 Hard          0  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0%
 ```
 
 ## 🛠️ Languages Used
 
 ```
-  Java             7  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
+  Java             8  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
 ```
 
 ## 🎯 Quick Stats
 
 | 📈 Stat | Value |
 |---------|-------|
-| Total Solved | **7** |
-| Easy | 🟢 3 |
+| Total Solved | **8** |
+| Easy | 🟢 4 |
 | Medium | 🟡 4 |
 | Hard | 🔴 0 |
 | Languages | Java |
-| Last Solved | Product of Array Except Self |
-| Last Push | 2026-06-28 |
+| Last Solved | Valid Anagram |
+| Last Push | 2026-06-29 |
 
 ---
 
@@ -52,6 +52,7 @@
 | 169 | [Majority Element](problems/0169-Majority-Element) | 🟢 Easy | `Java` | 2026-06-23 |
 | 217 | [Contains Duplicate](problems/0217-Contains-Duplicate) | 🟢 Easy | `Java` | 2026-06-25 |
 | 238 | [Product of Array Except Self](problems/0238-Product-of-Array-Except-Self) | 🟡 Medium | `Java` | 2026-06-26 |
+| 242 | [Valid Anagram](problems/0242-Valid-Anagram) | 🟢 Easy | `Java` | 2026-06-29 |
 
 ---
 
