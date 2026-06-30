@@ -2,7 +2,7 @@
 
 # 242. Valid Anagram
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/Language-Java-6c5ce7?style=for-the-badge&labelColor=1a1a2e&logo=code)  ![Solutions](https://img.shields.io/badge/Solutions-1-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/Date-2026-06-29-0984e3?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/Language-Java-6c5ce7?style=for-the-badge&labelColor=1a1a2e&logo=code)  ![Solutions](https://img.shields.io/badge/Solutions-2-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/Date-2026-06-30-0984e3?style=for-the-badge&labelColor=1a1a2e)
 
 [![LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/valid-anagram/)
 
@@ -18,16 +18,17 @@
 
 | Metric | This Attempt | All-time Best |
 |--------|:-----------:|:------------:|
-| ⚡ Runtime | 4 ms (Beats 82%) | **4 ms (Beats 82%)** 🆕 |
-| 💾 Memory  | 46.7 MB (Beats 9%) | **46.7 MB (Beats 9%)** |
+| ⚡ Runtime | 3 ms (Beats 93%) | **3 ms (Beats 93%)** 🆕 |
+| 💾 Memory  | 46.8 MB (Beats 9%) | **46.8 MB (Beats 9%)** |
 
 > 🎉 **New personal best!** Runtime improved!
 
-## 💡 Solutions (1 total)
+## 💡 Solutions (2 total)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
-| 1 | [sol1.java](./sol1.java) | `Java` | 2026-06-29 ← **latest** |
+| 1 | [sol1.java](./sol1.java) | `Java` | 2026-06-30 |
+| 2 | [sol2.java](./sol2.java) | `Java` | 2026-06-30 ← **latest** |
 
 ---
 
