@@ -5,7 +5,7 @@
 
 ![Problems](https://img.shields.io/badge/Total%20Solved-8-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/Medium-4-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/Hard-0-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
-![Updated](https://img.shields.io/badge/Last%20Updated-2026-06-29-0984e3?style=flat-square&labelColor=1a1a2e) ![Auto](https://img.shields.io/badge/Auto--Synced%20by-LeetSync-ffa116?style=flat-square&logo=google-chrome&logoColor=white)
+![Updated](https://img.shields.io/badge/Last%20Updated-2026-06-30-0984e3?style=flat-square&labelColor=1a1a2e) ![Auto](https://img.shields.io/badge/Auto--Synced%20by-LeetSync-ffa116?style=flat-square&logo=google-chrome&logoColor=white)
 
 </div>
 
@@ -37,7 +37,7 @@
 | Hard | 🔴 0 |
 | Languages | Java |
 | Last Solved | Valid Anagram |
-| Last Push | 2026-06-29 |
+| Last Push | 2026-06-30 |
 
 ---
 
@@ -52,7 +52,7 @@
 | 169 | [Majority Element](problems/0169-Majority-Element) | 🟢 Easy | `Java` | 2026-06-23 |
 | 217 | [Contains Duplicate](problems/0217-Contains-Duplicate) | 🟢 Easy | `Java` | 2026-06-25 |
 | 238 | [Product of Array Except Self](problems/0238-Product-of-Array-Except-Self) | 🟡 Medium | `Java` | 2026-06-26 |
-| 242 | [Valid Anagram](problems/0242-Valid-Anagram) | 🟢 Easy | `Java` | 2026-06-29 |
+| 242 | [Valid Anagram](problems/0242-Valid-Anagram) | 🟢 Easy | `Java` | 2026-06-30 |
 
 ---
 
