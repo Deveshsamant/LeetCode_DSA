@@ -3,7 +3,7 @@
 <h1>⚡ LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Problems](https://img.shields.io/badge/Total%20Solved-12-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/Easy-8-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/Medium-4-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/Hard-0-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Problems](https://img.shields.io/badge/Total%20Solved-13-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/Easy-8-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/Medium-5-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/Hard-0-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 ![Updated](https://img.shields.io/badge/Last%20Updated-2026-08-30-0984e3?style=flat-square&labelColor=1a1a2e) ![Auto](https://img.shields.io/badge/Auto--Synced%20by-LeetSync-ffa116?style=flat-square&logo=google-chrome&logoColor=white)
 
@@ -14,26 +14,26 @@
 ## 📊 Progress Dashboard
 
 ```
-  Total Solved     12  ████████████
+  Total Solved     13  █████████████
 
-  🟢 Easy          8  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ 67%
-  🟡 Medium        4  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░ 33%
+  🟢 Easy          8  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░ 62%
+  🟡 Medium        5  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 38%
   🔴 Hard          0  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0%
 ```
 
 ## 🛠️ Languages Used
 
 ```
-  Java            12  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
+  Java            13  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
 ```
 
 ## 🎯 Quick Stats
 
 | 📈 Stat | Value |
 |---------|-------|
-| Total Solved | **12** |
+| Total Solved | **13** |
 | Easy | 🟢 8 |
-| Medium | 🟡 4 |
+| Medium | 🟡 5 |
 | Hard | 🔴 0 |
 | Languages | Java |
 | Last Solved | Concatenation of Array |
@@ -56,6 +56,7 @@
 | 217 | [Contains Duplicate](problems/0217-Contains-Duplicate) | 🟢 Easy | `Java` | 2026-06-25 |
 | 238 | [Product of Array Except Self](problems/0238-Product-of-Array-Except-Self) | 🟡 Medium | `Java` | 2026-06-26 |
 | 242 | [Valid Anagram](problems/0242-Valid-Anagram) | 🟢 Easy | `Java` | 2026-06-30 |
+| 287 | [Find the Duplicate Number](problems/0287-Find-the-Duplicate-Number) | 🟡 Medium | `Java` | 2026-08-30 |
 | 1929 | [Concatenation of Array](problems/1929-Concatenation-of-Array) | 🟢 Easy | `Java` | 2026-07-02 |
 
 ---
