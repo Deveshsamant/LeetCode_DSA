@@ -3,7 +3,7 @@
 <h1>⚡ LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Problems](https://img.shields.io/badge/Total%20Solved-14-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/Easy-8-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/Medium-6-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/Hard-0-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Problems](https://img.shields.io/badge/Total%20Solved-15-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/Easy-8-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/Medium-7-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/Hard-0-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 ![Updated](https://img.shields.io/badge/Last%20Updated-2026-09-01-0984e3?style=flat-square&labelColor=1a1a2e) ![Auto](https://img.shields.io/badge/Auto--Synced%20by-LeetSync-ffa116?style=flat-square&logo=google-chrome&logoColor=white)
 
@@ -14,26 +14,26 @@
 ## 📊 Progress Dashboard
 
 ```
-  Total Solved     14  ██████████████
+  Total Solved     15  ███████████████
 
-  🟢 Easy          8  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░ 57%
-  🟡 Medium        6  ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░ 43%
+  🟢 Easy          8  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 53%
+  🟡 Medium        7  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░ 47%
   🔴 Hard          0  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0%
 ```
 
 ## 🛠️ Languages Used
 
 ```
-  Java            14  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
+  Java            15  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
 ```
 
 ## 🎯 Quick Stats
 
 | 📈 Stat | Value |
 |---------|-------|
-| Total Solved | **14** |
+| Total Solved | **15** |
 | Easy | 🟢 8 |
-| Medium | 🟡 6 |
+| Medium | 🟡 7 |
 | Hard | 🔴 0 |
 | Languages | Java |
 | Last Solved | Concatenation of Array |
@@ -49,6 +49,7 @@
 | 14 | [Longest Common Prefix](problems/0014-Longest-Common-Prefix) | 🟢 Easy | `Java` | 2026-07-01 |
 | 27 | [Remove Element](problems/0027-Remove-Element) | 🟢 Easy | `Java` | 2026-07-03 |
 | 49 | [Group Anagrams](problems/0049-Group-Anagrams) | 🟡 Medium | `Java` | 2026-06-24 |
+| 50 | [Pow(x, n)](problems/0050-Powx-n) | 🟡 Medium | `Java` | 2026-09-01 |
 | 74 | [Search a 2D Matrix](problems/0074-Search-a-2D-Matrix) | 🟡 Medium | `Java` | 2026-09-01 |
 | 75 | [Sort Colors](problems/0075-Sort-Colors) | 🟡 Medium | `Java` | 2026-06-28 |
 | 88 | [Merge Sorted Array](problems/0088-Merge-Sorted-Array) | 🟢 Easy | `Java` | 2026-08-30 |
