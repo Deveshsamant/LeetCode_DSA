@@ -2,7 +2,7 @@
 
 # 169. Majority Element
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/Language-Java-6c5ce7?style=for-the-badge&labelColor=1a1a2e&logo=code)  ![Solutions](https://img.shields.io/badge/Solutions-5-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/Date-2026-06-23-0984e3?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/Language-Java-6c5ce7?style=for-the-badge&labelColor=1a1a2e&logo=code)  ![Solutions](https://img.shields.io/badge/Solutions-6-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/Date-2026-09-01-0984e3?style=for-the-badge&labelColor=1a1a2e)
 
 [![LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/majority-element/)
 
@@ -12,24 +12,27 @@
 
 ## 🏷️ Topics
 
-`Array` `Hash Table` `Divide and Conquer` `Sorting` `Counting`
+`Array` `Hash Table` `Divide and Conquer` `Sorting` `Counting` `Boyer–Moore Majority Vote Algorithm`
 
 ## 🏆 Best Performance
 
 | Metric | This Attempt | All-time Best |
 |--------|:-----------:|:------------:|
-| ⚡ Runtime | 7 ms (Beats 44%) | **6 ms (Beats 49%)** |
-| 💾 Memory  | 55.8 MB (Beats 31%) | **55.8 MB (Beats 31%)** |
+| ⚡ Runtime | 1 ms (Beats 100%) | **1 ms (Beats 100%)** 🆕 |
+| 💾 Memory  | 56 MB (Beats 7%) | **56 MB (Beats 7%)** |
 
-## 💡 Solutions (5 total)
+> 🎉 **New personal best!** Runtime improved!
+
+## 💡 Solutions (6 total)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
-| 1 | [sol1.java](./sol1.java) | `Java` | 2026-06-23 |
-| 2 | [sol2.java](./sol2.java) | `Java` | 2026-06-23 |
-| 3 | [sol3.java](./sol3.java) | `Java` | 2026-06-23 |
-| 4 | [sol4.java](./sol4.java) | `Java` | 2026-06-23 |
-| 5 | [sol5.java](./sol5.java) | `Java` | 2026-06-23 ← **latest** |
+| 1 | [sol1.java](./sol1.java) | `Java` | 2026-09-01 |
+| 2 | [sol2.java](./sol2.java) | `Java` | 2026-09-01 |
+| 3 | [sol3.java](./sol3.java) | `Java` | 2026-09-01 |
+| 4 | [sol4.java](./sol4.java) | `Java` | 2026-09-01 |
+| 5 | [sol5.java](./sol5.java) | `Java` | 2026-09-01 |
+| 6 | [sol6.java](./sol6.java) | `Java` | 2026-09-01 ← **latest** |
 
 ---
 
