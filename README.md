@@ -54,7 +54,7 @@
 | 75 | [Sort Colors](problems/0075-Sort-Colors) | 🟡 Medium | `Java` | 2026-06-28 |
 | 88 | [Merge Sorted Array](problems/0088-Merge-Sorted-Array) | 🟢 Easy | `Java` | 2026-08-30 |
 | 128 | [Longest Consecutive Sequence](problems/0128-Longest-Consecutive-Sequence) | 🟡 Medium | `Java` | 2026-06-27 |
-| 169 | [Majority Element](problems/0169-Majority-Element) | 🟢 Easy | `Java` | 2026-06-23 |
+| 169 | [Majority Element](problems/0169-Majority-Element) | 🟢 Easy | `Java` | 2026-09-01 |
 | 217 | [Contains Duplicate](problems/0217-Contains-Duplicate) | 🟢 Easy | `Java` | 2026-06-25 |
 | 238 | [Product of Array Except Self](problems/0238-Product-of-Array-Except-Self) | 🟡 Medium | `Java` | 2026-06-26 |
 | 242 | [Valid Anagram](problems/0242-Valid-Anagram) | 🟢 Easy | `Java` | 2026-06-30 |
