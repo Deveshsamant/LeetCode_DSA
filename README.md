@@ -5,7 +5,7 @@
 
 ![Problems](https://img.shields.io/badge/Total%20Solved-17-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/Easy-8-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/Medium-9-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/Hard-0-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
-![Updated](https://img.shields.io/badge/Last%20Updated-2026-09-02-0984e3?style=flat-square&labelColor=1a1a2e) ![Auto](https://img.shields.io/badge/Auto--Synced%20by-LeetSync-ffa116?style=flat-square&logo=google-chrome&logoColor=white)
+![Updated](https://img.shields.io/badge/Last%20Updated-2026-09-04-0984e3?style=flat-square&labelColor=1a1a2e) ![Auto](https://img.shields.io/badge/Auto--Synced%20by-LeetSync-ffa116?style=flat-square&logo=google-chrome&logoColor=white)
 
 </div>
 
@@ -37,7 +37,7 @@
 | Hard | 🔴 0 |
 | Languages | Java |
 | Last Solved | Concatenation of Array |
-| Last Push | 2026-09-02 |
+| Last Push | 2026-09-04 |
 
 ---
 
@@ -45,7 +45,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|---------|:----------:|:--------:|:----:|
-| 1 | [Two Sum](problems/0001-Two-Sum) | 🟢 Easy | `Java` | 2026-06-23 |
+| 1 | [Two Sum](problems/0001-Two-Sum) | 🟢 Easy | `Java` | 2026-09-04 |
 | 14 | [Longest Common Prefix](problems/0014-Longest-Common-Prefix) | 🟢 Easy | `Java` | 2026-07-01 |
 | 27 | [Remove Element](problems/0027-Remove-Element) | 🟢 Easy | `Java` | 2026-07-03 |
 | 49 | [Group Anagrams](problems/0049-Group-Anagrams) | 🟡 Medium | `Java` | 2026-06-24 |
